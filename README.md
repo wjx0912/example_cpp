@@ -2,9 +2,9 @@ booksource是书对应的代码
 
 github是从github搜集的代码
 
-jupyter是jupyter&cling测试代码
+jupyter是jupyter&cling测试代码（ipynb和md是一对）
 
-source是整理的一些有用的代码
+
 
 
 
