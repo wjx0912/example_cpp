@@ -22,18 +22,3 @@ c++
 |                                                              |                                                              |
 
 
-
-cmake
-
-| [CMake 入门实战](https://hahack.com/codes/cmake) 的源代码 | https://github.com/wzpan/cmake-demo               |
-| --------------------------------------------------------- | ------------------------------------------------- |
-| Useful CMake Examples 英文                                | https://github.com/ttroy50/cmake-examples         |
-|                                                           |                                                   |
-| Cmake中文实战教程                                         | https://github.com/BrightXiaoHan/CMakeTutorial    |
-|                                                           | https://github.com/district10/cmake-templates     |
-|                                                           | https://github.com/xiaoweiChen/CMake-Cookbook     |
-|                                                           | https://github.com/wzpan/cmake-demo               |
-|                                                           | https://github.com/xiaomiwujiecao/cmakeTutorialCN |
-|                                                           |                                                   |
-|                                                           |                                                   |
-
